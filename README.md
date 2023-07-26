@@ -1,4 +1,18 @@
-### Hi there friends👋
+                                                                 # Hi there👋, I am Wasiu!
+
+```js
+const name = 'Wasiu';
+
+Developer dev = new Developer(name);
+
+while(dev.isActive())
+{
+  dev.isCoding();
+  dev.isReading();
+  dev.isWriting();
+}
+```
+
 
 <!--
 **Batunde-Dev/Batunde-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
