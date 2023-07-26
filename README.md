@@ -1,19 +1,11 @@
-                                                                 # Hi there👋, I am Wasiu!
+                                                     #Hi there👋, I am Wasiu!
 
-```js
-const name = 'Wasiu';
+- A full-stack software engineer with a front end focus
+- I am currenting learning ...
+- I love reading and writing docs
+- I am open to collaborations
 
-Developer dev = new Developer(name);
-
-while(dev.isActive())
-{
-  dev.isCoding();
-  dev.isReading();
-  dev.isWriting();
-}
-```
-
-
+                   Check out my portfolio website to get to know my tech stack and some other cool stuff.
 <!--
 **Batunde-Dev/Batunde-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
