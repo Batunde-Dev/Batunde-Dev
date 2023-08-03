@@ -2,7 +2,9 @@
 <h1 align="center">Hello 👋, I'm Wasiu Oguntola ✴️ </h1>
 > A full-stack `software developer` with a front-end focus, and a `technical writer.` I love to demystify complex technical concepts.
 
-<img align="right" alt="coding"  src="https://giphy.com/gifs/Tecocraft-computer-technology-laptop-EeZ6mLsRRik8cgnh3D/giphy.gif">
+<p align="right">
+<img src="https://giphy.com/gifs/Tecocraft-computer-technology-laptop-EeZ6mLsRRik8cgnh3D/giphy.gif" width="100" height="100" border="10"/>
+</p>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
