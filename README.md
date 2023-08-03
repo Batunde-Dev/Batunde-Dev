@@ -9,7 +9,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - :heart: I love to build solid,scalable and user centric `products`. 
-- 🔭 I’m currently working on`*Coding Skill`.
+- 🔭 I’m currently working on`Coding Skill`.
 - 🌱 I’m currently learning `JavaScript` and `Python`.
 - 👯 I’m looking to collaborate on Projects.
 - 💼 Portfolio:
