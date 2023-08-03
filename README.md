@@ -10,7 +10,7 @@
 
 - :heart: I love to build solid,scalable and user centric `products`. 
 - 🔭 I’m currently working on`*Coding Skill`.
-- 🌱 I’m currently learning `JavaScript` and `Pytohn`.
+- 🌱 I’m currently learning `JavaScript` and `Python`.
 - 👯 I’m looking to collaborate on Projects.
 - 💼 Portfolio:
 - 😄 Pronouns:He/Him/Him.
