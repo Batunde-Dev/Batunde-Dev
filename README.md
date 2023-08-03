@@ -1,19 +1,19 @@
 
 <h1 align="center">Hello 👋, I'm Wasiu Oguntola ✴️ </h1>
-<p text-align="center">A full-stack `software developer` with a front-end focus, and a `technical writer.` I love to demystify complex technical concepts</p>
+>A full-stack `software developer` with a front-end focus, and a `technical writer.` I love to demystify complex technical concepts.
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/Tecocraft-computer-technology-laptop-EeZ6mLsRRik8cgnh3D/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://https://giphy.com/gifs/Tecocraft-computer-technology-laptop-EeZ6mLsRRik8cgnh3D/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- :heart: I love to build solid,scalable and user centric `products.` 
-- 🔭 I’m currently working on`*Coding Skill.`
-- 🌱 I’m currently learnig `JavaScript` and `Python.`
+- :heart: I love to build solid,scalable and user centric `products`. 
+- 🔭 I’m currently working on`*Coding Skil`.
+- 🌱 I’m currently learnig `JavaScript` and `Pytho`.
 - 👯 I’m looking to collaborae on Projects.
 - 💼 Portfolio:
-- 😄 Pronouns:He/Him/His
-- ⚡ Fun fact: When I am not coding,I am writing/reading technical articles
-- 💬 Ask me about`Software Engineering`
+- 😄 Pronouns:He/Him/Hi.
+- ⚡ Fun fact: When I'm not coding,I'm writing/reading technical articles or watching football games⚽ 
+- 💬 Ask me about`Software Engineering.
 
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
