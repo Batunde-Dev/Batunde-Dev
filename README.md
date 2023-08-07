@@ -1,20 +1,20 @@
 
 <h1 align="center">Hello 👋, I'm Wasiu Oguntola ✴️ </h1>
 
-> A full-stack `software developer` with a front-end focus, and a `technical writer.` I love to demystify complex technical concepts. Always open to opportunities to add values in any form!
+> A full-stack `software developer` with a front-end focus, and a `technical writer`. I love to demystify complex technical concepts. Always open to opportunities to add values in any form!
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/e8qvtPuCyKXI4qJK7d/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - :heart: I love to build solid,scalable and user centric `products`. 
-- 🔭 I’m currently working on`Coding Skils`.
+- 🔭 I’m currently working on`Coding Skills`.
 - 🌱 I’m currently learning `JavaScript` and `Python`.
 - 👯 I’m looking to collaborate on Projects.
 - 💼 Portfolio:
 - 😄 Pronouns:He/Him/Him.
 - ⚡ Fun fact: When I'm not coding,I'm writing/reading technical articles or watching football games⚽ 
-- 💬 Ask me about`Software Engineering`.
+- 💬 Ask me about `Software Engineering`.
 
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
