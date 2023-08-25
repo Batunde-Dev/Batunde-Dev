@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Wasiu Oguntola ✴️ </h1>
 
-> A full-stack <code> <b> software developer </b> </code> with a front-end focus, and a <code><i>technical writer</i></code>. I love to demystify complex technical concepts. Always open to opportunities to add values in any form!
+> A full-stack <code> <b> software developer </b> </code> with a front-end focus, and a <code><i>technical writer</i></code>. I <b>love</b> to demystify complex technical concepts. Always open to opportunities to add values in any form!
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/e8qvtPuCyKXI4qJK7d/giphy.gif">
 
