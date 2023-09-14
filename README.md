@@ -1,6 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Wasiu Oguntola ✴️ </h1>
-A full-stack <code> <b> software developer </b> </code> with a front-end focus, and a <code><i>technical writer</i></code>. I love to demystify complex technical concepts.
+<p>Software engineer in training</p>
+A full-stack <code> <b> software engineer </b> </code> with a back-end focus, I love to know what is happening under the hood, and I have got a flair for demystify complex technical concepts.
 
 > Always open to opportunities to add values in any form!
 
@@ -8,7 +9,7 @@ A full-stack <code> <b> software developer </b> </code> with a front-end focus, 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- :heart: I love to build solid,scalable and user centric `products`. 
+- :heart: I love to build software `products`. 
 - 🔭 I’m currently working on`Coding Skills`.
 - 🌱 I’m currently learning `JavaScript` and `Python`.
 - 👯 I’m looking to collaborate on Projects.
